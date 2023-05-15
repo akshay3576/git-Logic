@@ -1,0 +1,10 @@
+push changes to feaTURE BRANCH
+
+checkout to main branch
+
+pull changes from main branch
+
+checkout to feature branch
+
+merge the changes pulled from main to feature branch... ie
+branch -> merge branch -> main branch.
